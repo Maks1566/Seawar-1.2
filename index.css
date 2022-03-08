@@ -1,0 +1,59 @@
+.tx{
+	margin: 0px;
+}
+.txbox{
+	width: 320px;
+	height: 190px;
+	padding: 10px;
+	border: 10px solid darkcyan;
+	border-right: none;
+	border-radius: 10px;
+	border-top-right-radius: 0px;
+	border-bottom-right-radius: 0px;
+}
+p{
+	font-size: 25px;
+}
+span{
+	font-size: 25px;
+}
+.ar{
+	width: 800px;
+	height: 800px;
+	border: 10px solid darkcyan;
+	border-bottom: 15px solid darkcyan;
+	border-radius: 10px;
+	border-top-left-radius: 0px;
+}
+.d-flex{
+	display: flex;
+}
+.mx-auto{
+	margin-right: 85%;
+	margin-left: 15%;
+}
+.b{
+	width: 1120px;
+}
+.mb{
+	width: 75px;
+	height: 75px;
+	border: 5px solid black;
+}
+.bl0{
+	border-left: 0px;
+}
+.bt0{
+	border-top: 0px;
+}
+.dot{
+	width: 1px;
+	height: 1px;
+	background: red;
+	border: 10px solid red;
+	border-radius: 10px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 27.5px;
+	display: none;
+}
